@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I am Suay Tosyalı, a Politics and Economics student in Ankara University. Lorem ipsum doler sit amet.
+I am a Politics and Economics student at Ankara University, specializing in the intersection of political science and economics. My research interests include political economy, public policy, and international relations. I am passionate about understanding how economic policies shape political landscapes and vice versa.
