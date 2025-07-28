@@ -32,7 +32,7 @@ author:
   email            : "suaytosyali@gmail.com" 
 
   # Academic websites
-  academia         : "https://drive.google.com/file/d/1g5D0b_oFNSwwVFbIdVQ3bn90CthdbqrH/view?usp=sharing"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
@@ -59,9 +59,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/suaytli/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/suay-tosyali/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
