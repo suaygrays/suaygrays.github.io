@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Suay Tosyali / Personal Website"
+title                    : "Suay Tosyali"
 title_separator          : "-"
 name                     : &name "Suay Tosyalı"
 description              : &description "This is my personal website, where I share my research, publications, and more."

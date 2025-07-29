@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# [Suay Tosyalı CV]
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
+## Contact Information
+* **Phone:** +90 (545) 256 82 52
+* **Email:** suaytosyali@gmail.com
+* **LinkedIn:** linkedin.com/in/suaytli
+* **GitHub:** github.com/suaytli
+* **Website:** [suaytli.github.io](suaytli.github.io)
+---
+## Summary
+Lorem ipsum this page is under my construction!
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
+## Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### **[Asia Pacific Research Center (APAM)]** | [Ankara University] — [Ankara, Turkey]
+*(September 2025, June 2027)*
+* This experience is yet to achieve on hold.
+### **[Undergrad TA for Prof. Dr. Altuğ Yalçıntaş]** | [Ankara University] — [Ankara, Turkey]
+*(July 2025, June 2026)*
+* Assisted in courses: PEC112, ENG201, ENG202,PEC204, and ECO339.
+* Developed GitHub repositories for the listed classes above.
+* Managed the Notion workspace for the lecturer and launched course specific sites.
+### **[Intern @General Directorate of Economic Programs and Research]** | [Ministry of Treasury and Finance] — [Ankara, Turkey]
+*(July 2025, August 2025)
+* Waiting for my branch.
+---
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### **[Politics and Economics]**, [BA] | [Ankara University] — [Ankara, Turkey]
+*(June 2027 expected)*
+* Current GPA: 3.01/4.00
+* I focus on economics and Asian studies in my undergraduate program.
+---
+## Skills
+* **Technical Skills:** MS Office, Google Workspace, Podio, Python, Git(Hub), and VSCode.
+* **Languages:** Turkish (Native), English (Advanced), Mandarin (Preliminary) 
+---
+## Additional Contributions
+
+### **[[Jakoben Students' Hub Website](https://jakoben.framer.website/)]** —[Ankara, Turkey]
+(February 2025, June 2027)
+* I am the founder and the coordinator of the hub portal.
+* Project aims to advertise and improve the department via events, information pages, and blogs.
+### **[AIESEC Experience]** —[Ankara, Turkey]
+(February 2024, October 2024)
+* **AIESEC Turkiye:** Developed Tracking Tools and Automated MX Funnel with Podio.
+* **AIESEC Ankara:** 
+	1. Volunteering Projects Sales 
+	2. CAPPA Traditional Tour 50th Year Vice President
+	3. Preparation and Experience Manager for Outgoing Volunteers and Interns
+	4. Welcoming Hero for New Members
+	5. Public Relations Team Member
