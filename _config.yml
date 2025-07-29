@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Suay"
   pronouns         : "he/him"
-  bio              : "Welcome to my page!"
+  bio              : # BIO TEXT
   location         : "Ankara, Turkey"
   employer         : "Ankara University"
   uri              : # URL
