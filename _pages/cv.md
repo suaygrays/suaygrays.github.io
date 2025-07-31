@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Suay Tosyalı CV
-
+# [Suay Tosyalı CV](https://drive.google.com/file/d/1g5D0b_oFNSwwVFbIdVQ3bn90CthdbqrH/view?usp=sharing) 
 ---
 ## Contact Information
 - **Phone:** +90 (545) 256 82 52
@@ -69,3 +68,5 @@ Lorem ipsum this page is under my construction!
 	3. Preparation and Experience Manager for Outgoing Volunteers and Interns
 	4. Welcoming Hero for New Members
 	5. Public Relations Team Member
+
+	---
