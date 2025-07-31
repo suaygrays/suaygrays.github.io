@@ -38,17 +38,20 @@ Lorem ipsum this page is under my construction!
 **Intern @General Directorate of Economic Programs and Research** | Ministry of Treasury and Finance — Ankara, Turkey
 *(July 2025, August 2025)
 - Waiting for my branch.
----
+
+----
 ## Education
 
 **Politics and Economics**, BA | Ankara University — Ankara, Turkey
 *(June 2027 expected)*
 - Current GPA: 3.01/4.00
 - I focus on economics and Asian studies in my undergraduate program.
+
 ---
 ## Skills
 - **Technical Skills:** MS Office, Google Workspace, Podio, Python, Git(Hub), and VSCode.
 - **Languages:** Turkish (Native), English (Advanced), Mandarin (Preliminary) 
+
 ---
 ## Additional Contributions
 
