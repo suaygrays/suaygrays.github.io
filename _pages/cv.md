@@ -37,7 +37,8 @@ Lorem ipsum this page is under my construction!
 
 **Intern @General Directorate of Economic Programs and Research** | Ministry of Treasury and Finance — Ankara, Turkey
 *(July 2025, August 2025)
-- Waiting for my branch.
+- Department: Global Economic Analysis
+- View my internship report here.
 
 ---
 ## Education
