@@ -25,11 +25,11 @@ Lorem ipsum this page is under my construction!
 ---
 ## Experience
 
-**Asia Pacific Research Center (APAM)** |Ankara University — Ankara, Turkey
+**Asia Pacific Research Center (APAM)** | Ankara University — Ankara, Turkey
 *(September 2025, June 2027)*
 - This experience is yet to achieve on hold.
 
-**[Undergrad TA for Prof. Dr. Altuğ Yalçıntaş]** | [Ankara University] — [Ankara, Turkey]
+**Undergrad TA for Prof. Dr. Altuğ Yalçıntaş** | Ankara University — Ankara, Turkey
 *(July 2025, June 2026)*
 - Assisted in courses: PEC112, ENG201, ENG202,PEC204, and ECO339.
 - Developed GitHub repositories for the listed classes above.
