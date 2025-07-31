@@ -1,10 +1,17 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Politics and Economics student at Ankara University, specializing in the intersection of political science and economics. My research interests include political economy, public policy, and international relations. I am passionate about understanding how economic policies shape political landscapes and vice versa.
+I am a Politics and Economics student at Ankara University. I am interested in Asian studies and behavioural economics. 
+
+### Roadmap for the Site
+- [Portfolio (Not Updated)](https://suaytli.github.io/portfolio/)
+- [Blog Posts (Not Updated)](https://suaytli.github.io/year-archive/)
+- [CV](https://suaytli.github.io/cv/)
+
+If you have any questions or suggestions please don't hesitate to contact me via my socials or email!

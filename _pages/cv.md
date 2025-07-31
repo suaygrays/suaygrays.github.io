@@ -17,6 +17,7 @@ redirect_from:
 - **LinkedIn:** [linkedin.com/in/suaytli](https://www.linkedin.com/in/suay-tosyali/)
 - **GitHub:** [github.com/suaytli](github.com/suaytli)
 - **Website:** [suaytli.github.io](suaytli.github.io)
+
 ---
 ## Summary
 Lorem ipsum this page is under my construction!
@@ -38,7 +39,7 @@ Lorem ipsum this page is under my construction!
 *(July 2025, August 2025)
 - Waiting for my branch.
 
-----
+---
 ## Education
 
 **Politics and Economics**, BA | Ankara University — Ankara, Turkey
@@ -54,12 +55,12 @@ Lorem ipsum this page is under my construction!
 ---
 ## Additional Contributions
 
-**[Jakoben Students' Hub Website](https://jakoben.framer.website/)** —Ankara, Turkey
+**[Jakoben Students' Hub Website](https://jakoben.framer.website/)** — Ankara, Turkey
 (February 2025, June 2027)
 - I am the founder and the coordinator of the hub portal.
 - Project aims to advertise and improve the department via events, information pages, and blogs.
 
-**AIESEC Experience** —Ankara, Turkey
+**AIESEC Experience** — Ankara, Turkey
 (February 2024, October 2024)
 - **AIESEC Turkiye:** Developed Tracking Tools and Automated MX Funnel with Podio.
 - **AIESEC Ankara:** 
